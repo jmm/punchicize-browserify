@@ -1,0 +1,16 @@
+{
+  "name": "punchicize-browserify",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Jesse McCarthy (http://software.jessemccarthy.net/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmm/punchicize-browserify.git"
+  },
+  "homepage": "https://github.com/jmm/punchicize-browserify",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ]
+}
